@@ -1,0 +1,341 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: font-family: 'Oswald', sans-serif;
+}
+.header {
+    background-image:url(first-screen.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 250px;
+    background-size: cover;
+
+}
+.menu {
+    height: 90px;
+}
+.big-text-1 {
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    font-family: Oswald;
+    font-weight: bold;
+    margin-top: 100px
+}
+.big-text-2 {
+        color: white;
+    font-size: 70px;
+    text-align: center;
+    font-family: Oswald;
+    font-weight: bold;
+}
+.p-1 {
+    color: white;
+    text-align: center;
+    font-family: Oswald;
+}
+.logo, .gamburger {
+    padding-top: 20px;
+}
+.wrapper {
+    width: 1140px;
+    margin: auto;
+    background-color: #f7f7f7;
+    position: relative;
+    margin-top: -150px;
+    padding: 70px 150px;
+}
+.orange-text {
+    font-size: 70px;
+    color: #F7654A;
+    font-family: Oswald;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+}
+.black-text {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-family: Oswald;
+    color: black;
+    margin: 0px;
+}
+.p-2 {
+    font-size: 18px;
+    color: gray;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-family: Oswald;
+}
+.centr-text-p {
+    text-align: center;
+    font-size: 30px;
+    font-family: Oswald;
+    font-weight: bold;
+    color: #404149;
+    padding-top: 100px; 
+}
+.centr-text-p {
+    padding-bottom: 40px;
+}
+.three-img {
+    width: 100%; 
+    padding-bottom: 50px;
+    height: 450px;
+}
+.palka {
+    height: 7px;
+    width: 65px;
+    background-color: #F7654A;
+    margin-bottom: 10px;
+}
+.p-text {
+    color: gray;
+}
+.section-2{
+    width: 100%;
+    background-color: #F7654A;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    
+}
+.section-2-text{
+    color: white;
+    font-size: 50px;
+    font-family: oswald;
+    font-weight: bold;
+    margin: 0px;
+}
+.section-bottom-text {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: oswald;
+    color: white
+}
+.quad {
+    height: 50px;
+    width: 200px;
+    background-color: white;
+    margin-top: 40px;
+}
+.fa-envelope {
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 12px;
+}
+.message {
+    font-weight: bold;
+    font-family: oswald;
+    padding-left: 20px;
+}
+.p-cont{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    font-family: oswald;
+    text-align: center;
+    margin-bottom: 80px
+}
+.build-text {
+    font-size: 20px;
+    font-family: oswald;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+}
+.quad-color{
+    background-color: #f7f7f7;
+    margin-top: 20px;
+    height: 250px;
+    box-sizing: border-box;
+}
+.build {
+    padding-left: 43%;
+    padding-top: 50px;
+}
+.building {
+    width: 100%;
+    margin-top: 
+}
+.image-container {
+    margin-top: 120px
+}
+.ask-text {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: oswald;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 80px;
+}
+.fa-caret-right {
+    font-size: 25px;
+    color: #F7654A;
+}
+.fa-sort-asc {
+    font-size: 25px;
+    color: #F7654A;
+    padding-top: 
+}
+.ask-p {
+    font-size: 25px;
+    color: #F7654A;
+    font-weight: bold;
+    font-family: oswald;
+    padding-bottom: 15px;
+}
+.ask-2 {
+    color: gray;
+    font-family: sans-serif;
+}
+.section-3{
+    width: 100%;
+    background-color: #404149;
+    padding-bottom: 60px;
+    margin-top: 200px;
+}
+.section-3-text{
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    font-family: oswald;
+    padding-top: 100px;
+}
+.partner {
+padding-top: 30px;
+}
+.review-text {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: oswald;
+    padding-top: 60px;
+}
+.bg-review {
+    background-color: #f7f7f7;
+    padding: 20px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    color: #999999;
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+.fa-quote-left {
+    color: #F7654A;
+    font-size: 50px;
+}
+.review-bottom-text {
+    font-family: oswald;
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+
+}
+.review-bottom-text-2 {
+    font-family: oswald;
+    color: #F7654A;
+    font-size: 23px;
+    font-weight: bold;
+}
+.contact {
+    text-align: center;
+    margin-top: 150px;
+    font-family: oswald;
+    font-size: 40px;
+    margin-bottom: 80px;
+}
+.fa-map-marker {
+    color: #F7654A;
+    font-size: 50px;
+    text-align: center;   
+}
+.fa-phone {
+    color: #F7654A;
+    font-size: 50px;
+    text-align: center;   
+}
+.fa-clock-o {
+    color: #F7654A;
+    font-size: 50px;    
+}
+.fa-envelope-o {
+    color: #F7654A;
+    font-size: 50px;
+    text-align: center;   
+}
+.m-text {
+    color: darkgray;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: oswald;
+    padding-top: 10px;
+    text-align: center;
+    
+}
+.m-text-1 {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: oswald;  
+    text-align: center;
+}
+.m-orange {
+    color: #F7654A;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: oswald;
+    text-align: center;
+}
+.contacts {
+    text-align: center;
+}
+.orange-section-2{
+    width: 100%;
+    background-color: #F7654A;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 150px;
+    margin-bottom: 150px;   
+}
+.section-bottom-text-1 {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: oswald;
+    color: white
+}
+.section-2-text{
+    color: white;
+    font-size: 50px;
+    font-family: oswald;
+    font-weight: bold;
+    margin: 0px;
+}
+.footer {
+    background-color: #404149;
+    font-size: 16px;
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-family: sans-serif;
+    width: 100%;
+    margin-top: 80px;  
+}
+.btn.focus, .btn:focus {
+    box-shadow: none;
+}
+.gamburger {
+    padding-left: 15px
+}
+.collapsing {
+    color: #fff;
+}
+.collapse {
+     color: #fff;
+}
